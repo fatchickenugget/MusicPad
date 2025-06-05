@@ -39,3 +39,10 @@ Today I began work on the PCB. I didn't get too far besides placing the componen
 # June 5
 
 Today I documented everything I've done thus far in my project journal, and uploaded all of the files I have to the project Github. I'm hoping I can finish the PCB and start the case today. 
+
+I indeed finished the PCB  
+![image](https://github.com/user-attachments/assets/d7c858f2-b59d-47e8-885d-a37958000385)
+
+**Time Taken:** 60 minutes
+Might start the case today 
+
