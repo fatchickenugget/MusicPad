@@ -52,3 +52,12 @@ Today I started work on the MusicPad's case. I was following the tutorial then b
 I used the [Orpheus Pad CAD file](https://github.com/hackclub/hackpad/tree/03a6a5542e0cffbb43e530b67994741fcccb205e/hackpads/orpheuspad) and [Lucas11222's Geometry Pad CAD file](https://github.com/lucas11222/Lucas11-GeometryPad/tree/main/pcb) as reference. 
 
 **Time Taken:** 120 minutes
+
+# June 20
+**Hour 1-2**
+I had finished creating the case for the musicpad some time ago, but forgot to record it here. Due to my inexperience with Fusion 360, I resorted to just doing manual placements of everything, but it resulted in something I was satisfied with. 
+![image](https://github.com/user-attachments/assets/08d67967-ceb2-4be5-9332-66e5d2ab2f2a)  
+
+I also put down some starter firmware using QMK that I'll improve more on once I've built my hackpad. It registers the OLED, encoder, and the keys so far. I'm planning on making a chrome extension that reads the macropad's inputs so that it functions on the web version of youtube music (since youtube music doesn't have an application). 
+
+**Time Taken:** 120 minutes
