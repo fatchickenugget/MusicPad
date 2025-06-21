@@ -5,7 +5,7 @@ A music application UI Macropad
 
 ### Purpose
 
-I made this macropad for Hack Club's Highway using their [Hackpad Tutorial](https://hackpad.hackclub.com/). It's meant to be used as an accompaniment to music applications, primarily Youtube Music (which I use), as a physical UI. 
+I made this macropad for Hack Club's Highway using their [Hackpad Tutorial](https://hackpad.hackclub.com/). It's meant to be used as an accompaniment to music applications, primarily Youtube Music (which I use), as a physical UI. I like to listen to music 
 
 ### Features
 - An OLED meant to display info such as:
