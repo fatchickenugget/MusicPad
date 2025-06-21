@@ -4,7 +4,8 @@ author: "Matthew"
 description: "A macropad meant to serve as a physical UI for media/music players."
 created_at: "2025-06-02"
 ---
-
+# Time Taken
+7 hours
 # June 2
 I decided on making a Macropad that essentially acts as a Music application UI:  
 ![image](https://github.com/user-attachments/assets/06e0665b-bcbe-412e-9027-9a98d9f9efbf)  
